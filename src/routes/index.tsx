@@ -47,8 +47,8 @@ import { Toaster } from "@/components/ui/sonner";
 import heroPort from "@/assets/carriers_network_truck.png";
 import trucksIllustration from "@/assets/trucks-illustration.jpg";
 import dispatcherIllustration from "@/assets/dispatcher-illustration.jpg";
-import header_logo from "@assets/carriers_network_logo_header.png";
-import footer_logo from "@assets/carriers_network_logo_footer1.png";
+import header_logo from "@/assets/carriers_network_logo_header.png";
+import footer_logo from "@/assets/carriers_network_logo_footer1.png";
 
 export const Route = createFileRoute("/")({
   component: Index,
